@@ -1,0 +1,1 @@
+-wto "f30b378c2e47470f822e0f98f3000ae0" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "T_ImprovedTheromstat_behav" "xil_defaultlib.T_ImprovedTheromstat" -log "elaborate.log" 
